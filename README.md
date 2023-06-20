@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Web Development and Software Engineering. 
+👯 I’m looking to collaborate on any open-source project related to AI. I believe that teamwork can lead to greater results, and I'm eager to contribute to the broader tech community.
+- 💬 Ask me about anything related to C++ because this is one of the programming language that I spend a significant amount of time mastering it.
+- 📫 How to reach me: You can shoot me an email at mnhat1901@gmail.com. It may take a couple days to respond.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Vietnam, my travel destination, is home to the world's largest cave, Hang Son Doong, located in Phong Nha-Kẻ Bàng National Park. The cave is so vast that it could hold an entire 40-story skyscraper inside it! So, in addition to visiting my beloved grandma, my trip would present opportunities to explore rich history, breathtaking landscapes, and delightful cuisine!
 <!--
 **minhnhat1901/minhnhat1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
