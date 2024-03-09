@@ -6,7 +6,7 @@
 - 📫 How to reach me: You can shoot me an email at mnhat1901@gmail.com. I may take a couple days to respond.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Vietnam, my travel destination, is home to the world's largest cave, Hang Son Doong, located in Phong Nha-Kẻ Bàng National Park. The cave is so vast that it could hold an entire 40-story skyscraper inside it! So, in addition to visiting my beloved grandma, my trip would present opportunities to explore rich history, breathtaking landscapes, and delightful cuisine!
-- Here is my [Personal Portfolio](https://minhnhat1901.github.io/Personal_Portfolio/)
+- Here is my [Personal Portfolio](minhnhat1901.github.io/)
 <!--
 **minhnhat1901/minhnhat1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
