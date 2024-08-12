@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development and Software Engineering. 
+- 🌱 I’m pursuing in Web Development and Software Engineering. 
 👯 I’m looking to collaborate on any open-source project related to AI. I believe that teamwork can lead to greater results, and I'm eager to contribute to the broader tech community.
 - 💬 Ask me about anything related to C++ because this is one of the programming language that I spend a significant amount of time mastering it.
 - 📫 How to reach me: You can shoot me an email at dmn19012000@gmail.com. I may take a couple days to respond.
